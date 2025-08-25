@@ -49,30 +49,6 @@ SYS-BIO/
 ├── .github/                           # GitHub configuration
 │   └── workflows/                     # CI/CD workflows
 │       └── ci.yml                     # Continuous integration 
-│
-├── Presentation/                      # Course presentation materials
-│   ├── Dinesh Saggurthi LIFE414 Presentation.pptx
-│
-├── SLIDES/                            # Course lecture materials
-│   ├── Lecture6.pdf
-│   ├── LIFE414_2024_Lecture1.pdf
-│   ├── LIFE414_2024_Lecture2.pdf
-│   ├── LIFE414_2024_Lecture3.pdf
-│   ├── LIFE414_2024_Lecture4.pdf
-│   ├── LIFE414_2024_Lecture5.pdf
-│   ├── LIFE414_2024_Lecture6.pdf
-│   ├── LIFE414_2024_Lecture7.pdf
-│   ├── LIFE414_2024_Lecture8.pdf
-│   ├── LIFE414_2024_Lecture9.pdf
-│   └── SYS - bio notes.pdf
-│
-├── Part_2/                            # Additional course materials
-│   └── [Lecture PDFs 1-9]
-│
-├── Part -2 Slides/                    # Course slides backup
-│   └── [Lecture PDFs 1-9]
-│
-└── GWAS; Association analysis.pdf     # Additional reference material
 ```
 
 ## Key Features Implemented
